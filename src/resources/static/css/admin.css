@@ -1,0 +1,17 @@
+.nav{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background-color: dimgrey;
+	width: 100%;
+	height: 11vh;
+	color: white;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+}
+a{
+	color: white;
+	font-weight: bold;
+}
